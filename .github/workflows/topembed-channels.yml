@@ -7,6 +7,7 @@ on:
 env:
   m_filename: topembed-channels.m3u8
   t_filename: topembed-channels-tivimate.m3u8
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   fetch_m3u8_job:
@@ -46,51 +47,10 @@ jobs:
             fi
           done
 
-      - name: Commit and push the M3U8 files
+      - name: Commit and push the M3U8 files (Squash Commit)
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          
-          # First add the files we care about
-          git add "${{ env.m_filename }}" "${{ env.t_filename }}"
-          
-          # Check if there are changes to commit
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          
-          # Stash any other unstaged changes
-          git stash -u
-          
-          # Pull the latest changes with rebase
-          git pull --rebase origin main
-          
-          # Commit our changes
-          git commit -m "Update M3U8 files"
-          
-          # Add retry logic for pushing
-          MAX_RETRIES=3
-          RETRY_COUNT=0
-          
-          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-            if git push; then
-              echo "Push successful!"
-              exit 0
-            else
-              echo "Push failed, retrying after pulling latest changes..."
-              # Stash any new changes that might have appeared
-              git stash -u
-              git pull --rebase origin main
-              RETRY_COUNT=$((RETRY_COUNT+1))
-              if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
-                echo "Retry $RETRY_COUNT of $MAX_RETRIES"
-              else
-                echo "Failed to push after $MAX_RETRIES attempts"
-              fi
-            fi
-          done
-          
-          exit 1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git diff --staged --quiet || git commit -m "Update epg"
+          git push --force
+        
