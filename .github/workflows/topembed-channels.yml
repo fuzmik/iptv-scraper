@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
           
-          # Stage the files first
+          # First add the files we care about
           git add "${{ env.m_filename }}" "${{ env.t_filename }}"
           
           # Check if there are changes to commit
@@ -60,16 +60,37 @@ jobs:
             exit 0
           fi
           
-          # Try to pull changes with rebase strategy
-          git pull origin main --rebase || {
-            # If pull fails, stash changes, pull, then pop stash
-            git stash
-            git pull origin main
-            git stash pop
-          }
+          # Stash any other unstaged changes
+          git stash -u
           
-          # Commit and push
+          # Pull the latest changes with rebase
+          git pull --rebase origin main
+          
+          # Commit our changes
           git commit -m "Update M3U8 files"
-          git push
+          
+          # Add retry logic for pushing
+          MAX_RETRIES=3
+          RETRY_COUNT=0
+          
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            if git push; then
+              echo "Push successful!"
+              exit 0
+            else
+              echo "Push failed, retrying after pulling latest changes..."
+              # Stash any new changes that might have appeared
+              git stash -u
+              git pull --rebase origin main
+              RETRY_COUNT=$((RETRY_COUNT+1))
+              if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                echo "Retry $RETRY_COUNT of $MAX_RETRIES"
+              else
+                echo "Failed to push after $MAX_RETRIES attempts"
+              fi
+            fi
+          done
+          
+          exit 1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
