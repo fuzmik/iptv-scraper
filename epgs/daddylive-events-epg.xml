@@ -1,0 +1,2028 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="daddylive-events_1">
+    <display-name>Divorce Court Season 26, Episode 126</display-name>
+  </channel>
+  <channel id="daddylive-events_2">
+    <display-name>Hell's Kitchen Season 12, Episode 8</display-name>
+  </channel>
+  <channel id="daddylive-events_3">
+    <display-name>The Price Is Right</display-name>
+  </channel>
+  <channel id="daddylive-events_4">
+    <display-name>St. Patrick's Day Parade 2025 Live</display-name>
+  </channel>
+  <channel id="daddylive-events_5">
+    <display-name>Beyond the Gates Season 1, Episode 16</display-name>
+  </channel>
+  <channel id="daddylive-events_6">
+    <display-name>Pictionary Season 3, Episode 111</display-name>
+  </channel>
+  <channel id="daddylive-events_7">
+    <display-name>Muchacha italiana viene a casarse Season 1, Episode 38</display-name>
+  </channel>
+  <channel id="daddylive-events_8">
+    <display-name>General Hospital Season 62, Episode 130</display-name>
+  </channel>
+  <channel id="daddylive-events_9">
+    <display-name>The Kelly Clarkson Show Season 6, Episode 111</display-name>
+  </channel>
+  <channel id="daddylive-events_10">
+    <display-name>Hot Bench Season 11, Episode 103</display-name>
+  </channel>
+  <channel id="daddylive-events_11">
+    <display-name>Jeopardy! Season 41, Episode 136</display-name>
+  </channel>
+  <channel id="daddylive-events_12">
+    <display-name>LEGO Disney Princess: The Castle Quest</display-name>
+  </channel>
+  <channel id="daddylive-events_13">
+    <display-name>American Ninja Warrior Qualifier 1 Season 12</display-name>
+  </channel>
+  <channel id="daddylive-events_14">
+    <display-name>Poker Masters New</display-name>
+  </channel>
+  <channel id="daddylive-events_15">
+    <display-name>Beyond the Gates Season 1, Episode 6</display-name>
+  </channel>
+  <channel id="daddylive-events_16">
+    <display-name>Love &amp;amp; Hip Hop Miami Season 6, Episode 18</display-name>
+  </channel>
+  <channel id="daddylive-events_17">
+    <display-name>90 Day: The Last Resort Season 2, Episode 16</display-name>
+  </channel>
+  <channel id="daddylive-events_18">
+    <display-name>Mysteries of the Unknown Season 9, Episode 12</display-name>
+  </channel>
+  <channel id="daddylive-events_19">
+    <display-name>Spring Baking Championship Season 11, Episode 2</display-name>
+  </channel>
+  <channel id="daddylive-events_20">
+    <display-name>All American Season 7, Episode 7</display-name>
+  </channel>
+  <channel id="daddylive-events_21">
+    <display-name>2025 iHeartRadio Music Awards Live</display-name>
+  </channel>
+  <channel id="daddylive-events_22">
+    <display-name>The Voice Season 27, Episode 7</display-name>
+  </channel>
+  <channel id="daddylive-events_23">
+    <display-name>The Bachelor Season 29, Episode 8</display-name>
+  </channel>
+  <channel id="daddylive-events_24">
+    <display-name>Antiques Roadshow Season 29, Episode 9</display-name>
+  </channel>
+  <channel id="daddylive-events_25">
+    <display-name>NCAA March Madness Bracket Breakdown</display-name>
+  </channel>
+  <channel id="daddylive-events_26">
+    <display-name>Below Deck Down Under Season 3, Episode 7</display-name>
+  </channel>
+  <channel id="daddylive-events_27">
+    <display-name>Contraband: Seized at the Border Season 6, Episode 8</display-name>
+  </channel>
+  <channel id="daddylive-events_28">
+    <display-name>Celtics City Season 1, Episode 3</display-name>
+  </channel>
+  <channel id="daddylive-events_29">
+    <display-name>A Body in the Snow: The Trial of Karen Read Season 1, Premiere</display-name>
+  </channel>
+  <channel id="daddylive-events_30">
+    <display-name>Gypsy Rose: Life After Lock Up Season 2, Episode 2</display-name>
+  </channel>
+  <channel id="daddylive-events_31">
+    <display-name>College GameNight Episode 3 • Live</display-name>
+  </channel>
+  <channel id="daddylive-events_32">
+    <display-name>Rachael Ray in Tuscany Season 1, Episode 26</display-name>
+  </channel>
+  <channel id="daddylive-events_33">
+    <display-name>History's Greatest Mysteries Season 6, Episode 7</display-name>
+  </channel>
+  <channel id="daddylive-events_34">
+    <display-name>Fatal Attraction Season 15, Episode 42</display-name>
+  </channel>
+  <channel id="daddylive-events_35">
+    <display-name>Instant Italian With Anna Gass Season 1, Episode 3</display-name>
+  </channel>
+  <channel id="daddylive-events_36">
+    <display-name>Confessions of Octomom Season 1, Episode 2</display-name>
+  </channel>
+  <channel id="daddylive-events_37">
+    <display-name>The Calling: A Medical School Journey</display-name>
+  </channel>
+  <channel id="daddylive-events_38">
+    <display-name>The Hunting Party Season 1, Episode 7</display-name>
+  </channel>
+  <channel id="daddylive-events_39">
+    <display-name>The Secret Lives of Mormon Wivesb Season 1, Episode 8</display-name>
+  </channel>
+  <channel id="daddylive-events_40">
+    <display-name>Juegos de amor y poder Season 1, Episode 1 • Premiere</display-name>
+  </channel>
+  <channel id="daddylive-events_41">
+    <display-name>History's Most Shocking Season 1, Episode 7</display-name>
+  </channel>
+  <channel id="daddylive-events_42">
+    <display-name>Israel - Liga Leumit : Maccabi Herzliya vs Hapoel Acre</display-name>
+  </channel>
+  <channel id="daddylive-events_43">
+    <display-name>Bulgaria - Second League : Dobrudzha 1919 vs Yantra 2019</display-name>
+  </channel>
+  <channel id="daddylive-events_44">
+    <display-name>Israel - Liga Leumit : Hapoel Rishon LeZion vs Hapoel Nazareth Illit</display-name>
+  </channel>
+  <channel id="daddylive-events_45">
+    <display-name>Israel - Liga Leumit : Hapoel Kfar Saba vs Kafr Qasim</display-name>
+  </channel>
+  <channel id="daddylive-events_46">
+    <display-name>Frauen-Bundesliga : Freiburg vs Eintracht Frankfurt</display-name>
+  </channel>
+  <channel id="daddylive-events_47">
+    <display-name>Bosnia and Herzegovina - Premijer Liga : Borac Banja Luka vs Široki Brijeg</display-name>
+  </channel>
+  <channel id="daddylive-events_48">
+    <display-name>Russia - FNL : Arsenal Tula vs Chayka</display-name>
+  </channel>
+  <channel id="daddylive-events_49">
+    <display-name>Romania - Liga I : Sepsi vs SCM Gloria Buzău</display-name>
+  </channel>
+  <channel id="daddylive-events_50">
+    <display-name>Serbia - Super Liga : Novi Pazar vs Železničar Pančevo</display-name>
+  </channel>
+  <channel id="daddylive-events_51">
+    <display-name>Italy - Serie C : Trento vs Alcione</display-name>
+  </channel>
+  <channel id="daddylive-events_52">
+    <display-name>Italy - Serie C : Lecco vs Vicenza</display-name>
+  </channel>
+  <channel id="daddylive-events_53">
+    <display-name>Italy - Serie C : Calcio Padova vs Pergolettese</display-name>
+  </channel>
+  <channel id="daddylive-events_54">
+    <display-name>Italy - Serie C : Virtus Entella vs Sestri Levante</display-name>
+  </channel>
+  <channel id="daddylive-events_55">
+    <display-name>Italy - Serie C : SPAL vs Ternana</display-name>
+  </channel>
+  <channel id="daddylive-events_56">
+    <display-name>Italy - Serie C : Potenza Calcio vs Team Altamura</display-name>
+  </channel>
+  <channel id="daddylive-events_57">
+    <display-name>Spain - Segunda Division : CD Castellon vs Deportivo La Coruña</display-name>
+  </channel>
+  <channel id="daddylive-events_58">
+    <display-name>Chile - Primera B : Recoleta vs Santiago Morning</display-name>
+  </channel>
+  <channel id="daddylive-events_59">
+    <display-name>Argentina - Primera Nacional : Atlanta vs Los Andes</display-name>
+  </channel>
+  <channel id="daddylive-events_60">
+    <display-name>Argentina - Primera División : Unión Santa Fe vs Banfield</display-name>
+  </channel>
+  <channel id="daddylive-events_61">
+    <display-name>Argentina - Primera División : Tigre vs Central Córdoba SdE</display-name>
+  </channel>
+  <channel id="daddylive-events_62">
+    <display-name>Jamaica National Premier League : Mount Pleasant Academy vs Racing United</display-name>
+  </channel>
+  <channel id="daddylive-events_63">
+    <display-name>Uruguay - Primera Division : Cerro Largo vs Cerro</display-name>
+  </channel>
+  <channel id="daddylive-events_64">
+    <display-name>Campeonato Brasileiro De Futebol Sub-20 : Atlético-Mg vs Santos</display-name>
+  </channel>
+  <channel id="daddylive-events_65">
+    <display-name>Argentina - Primera División : San Martín San Juan vs Platense</display-name>
+  </channel>
+  <channel id="daddylive-events_66">
+    <display-name>Argentina - Primera División : Atlético Tucumán vs Vélez Sarsfield</display-name>
+  </channel>
+  <channel id="daddylive-events_67">
+    <display-name>Uruguay - Primera Division : River Plate vs Boston River</display-name>
+  </channel>
+  <channel id="daddylive-events_68">
+    <display-name>Argentina - Primera Nacional : Temperley vs Gimnasia Mendoza</display-name>
+  </channel>
+  <channel id="daddylive-events_69">
+    <display-name>Jamaica National Premier League : Montego Bay United vs Arnett Gardens</display-name>
+  </channel>
+  <channel id="daddylive-events_70">
+    <display-name>Liga MX Femenil : Tigres UANL vs Mazatlán</display-name>
+  </channel>
+  <channel id="daddylive-events_71">
+    <display-name>3rd Women's T20 : New Zealand W vs Sri Lanka W</display-name>
+  </channel>
+  <channel id="daddylive-events_72">
+    <display-name>2nd T20 : New Zealand vs Pakistan</display-name>
+  </channel>
+  <channel id="daddylive-events_73">
+    <display-name>UTR (M) - Dubai (EAU) : Tsihon Fedorov vs Valentin Vanta</display-name>
+  </channel>
+  <channel id="daddylive-events_74">
+    <display-name>UTR (M) - Dubai (EAU) : Yizhou Liu vs Samuil Konov</display-name>
+  </channel>
+  <channel id="daddylive-events_75">
+    <display-name>UTR (M) - Dubai (EAU) : Teodor Giusca vs Freddie Ridout</display-name>
+  </channel>
+  <channel id="daddylive-events_76">
+    <display-name>UTR (M) - Dubai (EAU) : Viktor Jovic vs Joris Moret</display-name>
+  </channel>
+  <channel id="daddylive-events_77">
+    <display-name>UTR (M) - Dubai (EAU) : David C.Carteputreda vs Alexander Zgirovsky</display-name>
+  </channel>
+  <channel id="daddylive-events_78">
+    <display-name>UTR (M) - Dubai (EAU) : Jimmy Yang vs Igor Kolaric</display-name>
+  </channel>
+  <channel id="daddylive-events_79">
+    <display-name>UTR (M) - Olomouc (CEH) : Petr Michnev vs Jan Klimas</display-name>
+  </channel>
+  <channel id="daddylive-events_80">
+    <display-name>UTR (M) - Dubai (EAU) : Karlo Cubelic vs Ronetto Van Tilburg</display-name>
+  </channel>
+  <channel id="daddylive-events_81">
+    <display-name>UTR (M) - Olomouc (CEH) : Adam Jurajda vs Patrik Homola</display-name>
+  </channel>
+  <channel id="daddylive-events_82">
+    <display-name>Challenger - Zadar (CRO) - Qualifiers : Andrej Martin vs Franco Agamenone</display-name>
+  </channel>
+  <channel id="daddylive-events_83">
+    <display-name>Challenger - Zadar (CRO) - Qualifiers : Luka Pavlovic vs Josip Simundza</display-name>
+  </channel>
+  <channel id="daddylive-events_84">
+    <display-name>Challenger - Zadar (CRO) - Qualifiers : Oleksandr Ovcharenko vs Luka Mikrut</display-name>
+  </channel>
+  <channel id="daddylive-events_85">
+    <display-name>Challenger - Murcia (SPA) - Qualifiers : Andres Santamarta Roig vs Miguel Damas</display-name>
+  </channel>
+  <channel id="daddylive-events_86">
+    <display-name>Challenger - Murcia (SPA) - Qualifiers : Daniel Merida Aguilar vs David Jorda Sanchis</display-name>
+  </channel>
+  <channel id="daddylive-events_87">
+    <display-name>UTR (M) - Olomouc (CEH) : Josef Vagner - David Schwarc</display-name>
+  </channel>
+  <channel id="daddylive-events_88">
+    <display-name>Challenger - Murcia (SPA) - Qualifiers : Valentin Vacherot vs Michiel de Krom</display-name>
+  </channel>
+  <channel id="daddylive-events_89">
+    <display-name>Challenger - Zadar (CRO) - Qualifiers : Daniel Michalski vs Zdenek Kolar</display-name>
+  </channel>
+  <channel id="daddylive-events_90">
+    <display-name>Challenger - Zadar (CRO) - Qualifiers : Lilian Marmousez vs Marko Topo</display-name>
+  </channel>
+  <channel id="daddylive-events_91">
+    <display-name>Challenger - Zadar (CRO) - Qualifiers : Mirza Basic vs Michael Vrbensky</display-name>
+  </channel>
+  <channel id="daddylive-events_92">
+    <display-name>Challenger - Murcia (SPA) - Qualifiers : Daniel Cukierman vs Justin Engel</display-name>
+  </channel>
+  <channel id="daddylive-events_93">
+    <display-name>Challenger - Murcia (SPA) - Qualifiers : Nicolas Alvarez Varona vs Gabriele Pennaforti</display-name>
+  </channel>
+  <channel id="daddylive-events_94">
+    <display-name>Challenger - Zadar (CRO) : Carlos Sanchez Jover vs Vit Kopriva</display-name>
+  </channel>
+  <channel id="daddylive-events_95">
+    <display-name>Challenger - Zadar (CRO) : Dino Prizmic vs Elias Ymer</display-name>
+  </channel>
+  <channel id="daddylive-events_96">
+    <display-name>Challenger - Zadar (CRO) : Enrico Dalla Valle vs Max Hans Rehberg</display-name>
+  </channel>
+  <channel id="daddylive-events_97">
+    <display-name>UTR (M) - Olomouc (CEH) : Timur Maulenov vs Bartosz Wojnar</display-name>
+  </channel>
+  <channel id="daddylive-events_98">
+    <display-name>Challenger - Zadar (CRO) : Matej Dodig vs Jozef Kovalik</display-name>
+  </channel>
+  <channel id="daddylive-events_99">
+    <display-name>Challenger - Zadar (CRO) : Zsombor Piros vs Filip Misolic</display-name>
+  </channel>
+  <channel id="daddylive-events_100">
+    <display-name>Challenger - Murcia (SPA) : Andrea Pellegrino vs Jesper de Jong</display-name>
+  </channel>
+  <channel id="daddylive-events_101">
+    <display-name>Challenger - Murcia (SPA) : Javier Barranco Cosano vs Nicolai Budkov Kjaer</display-name>
+  </channel>
+  <channel id="daddylive-events_102">
+    <display-name>Challenger - Murcia (SPA) : Sebastian Ofner vs Kimmer Coppejans</display-name>
+  </channel>
+  <channel id="daddylive-events_103">
+    <display-name>Challenger - Murcia (SPA) : Harold Mayot vs Edas Butvilas</display-name>
+  </channel>
+  <channel id="daddylive-events_104">
+    <display-name>Challenger - Murcia (SPA) : Pablo Llamas Ruiz vs Sumit Nagal</display-name>
+  </channel>
+  <channel id="daddylive-events_105">
+    <display-name>Challenger - Merida (MEX) - Qualifiers : Ivan Denisov vs Alan Fernando Rubio Fierros</display-name>
+  </channel>
+  <channel id="daddylive-events_106">
+    <display-name>Challenger - Merida (MEX) - Qualifiers : Karl Poling vs Ivan Marrero Curbelo</display-name>
+  </channel>
+  <channel id="daddylive-events_107">
+    <display-name>ATP - Miami (USA) - Qualifiers : Adam Walton vs Mikhail Kukushkin</display-name>
+  </channel>
+  <channel id="daddylive-events_108">
+    <display-name>ATP - Miami (USA) - Qualifiers : Francisco Comesana vs Michael Mmoh</display-name>
+  </channel>
+  <channel id="daddylive-events_109">
+    <display-name>ATP - Miami (USA) - Qualifiers : Gabriel Diallo vs Yosuke Watanuki</display-name>
+  </channel>
+  <channel id="daddylive-events_110">
+    <display-name>ATP - Miami (USA) - Qualifiers : Hugo Gaston vs Hady Habib</display-name>
+  </channel>
+  <channel id="daddylive-events_111">
+    <display-name>ATP - Miami (USA) - Qualifiers : James Duckworth vs Federico Agustin Gomez</display-name>
+  </channel>
+  <channel id="daddylive-events_112">
+    <display-name>ATP - Miami (USA) - Qualifiers : Martin Damm Jr vs Brandon Holt</display-name>
+  </channel>
+  <channel id="daddylive-events_113">
+    <display-name>ATP - Miami (USA) - Qualifiers : Mikael Ymer vs Billy Harris</display-name>
+  </channel>
+  <channel id="daddylive-events_114">
+    <display-name>ATP - Miami (USA) - Qualifiers : Shintaro Mochizuki vs Yannick Hanfmann</display-name>
+  </channel>
+  <channel id="daddylive-events_115">
+    <display-name>ATP - Miami (USA) - Qualifiers : Stefano Napolitano vs Tristan Schoolkate</display-name>
+  </channel>
+  <channel id="daddylive-events_116">
+    <display-name>WTA - Miami (USA) - Qualifiers : Bernarda Pera vs Robin Montgomery</display-name>
+  </channel>
+  <channel id="daddylive-events_117">
+    <display-name>UTR (F) - Manzanillo (MEX) : C.I. Millan vs Summer Curtis</display-name>
+  </channel>
+  <channel id="daddylive-events_118">
+    <display-name>UTR (F) - Manzanillo (MEX) : Eduardo Yahir Orozco Rangel vs Juan Sebastian Osorio</display-name>
+  </channel>
+  <channel id="daddylive-events_119">
+    <display-name>UTR (F) - Newport Beach (USA) : Elena Mireles vs Danielle Willson</display-name>
+  </channel>
+  <channel id="daddylive-events_120">
+    <display-name>UTR (F) - Newport Beach (USA) : Emily Deming vs Dejana Radanovic</display-name>
+  </channel>
+  <channel id="daddylive-events_121">
+    <display-name>WTA - Miami (USA) - Qualifiers : Ena Shibahara vs Elena-Gabriela Ruse</display-name>
+  </channel>
+  <channel id="daddylive-events_122">
+    <display-name>UTR (F) - Manzanillo (MEX) : Ingrid Carolina Millan vs Summer Curtis</display-name>
+  </channel>
+  <channel id="daddylive-events_123">
+    <display-name>WTA - Miami (USA) - Qualifiers : Kimberly Birrell vs Harriet Dart</display-name>
+  </channel>
+  <channel id="daddylive-events_124">
+    <display-name>UTR (F) - Manzanillo (MEX) : Martina Capurro Taborda vs Isabel Adrover Gallego</display-name>
+  </channel>
+  <channel id="daddylive-events_125">
+    <display-name>WTA - Miami (USA) - Qualifiers : Maya Joint vs Rebeka Masarova</display-name>
+  </channel>
+  <channel id="daddylive-events_126">
+    <display-name>UTR (F) - Newport Beach (USA) : Sirena Waas vs Brandy Walker</display-name>
+  </channel>
+  <channel id="daddylive-events_127">
+    <display-name>WTA - Miami (USA) - Qualifiers : Sonay Kartal vs Taylor Townsend</display-name>
+  </channel>
+  <channel id="daddylive-events_128">
+    <display-name>Challenger - Merida (MEX) - Qualifiers : Trey Hilderbrand vs Nicolas Villalon Valdes</display-name>
+  </channel>
+  <channel id="daddylive-events_129">
+    <display-name>WTA - Miami (USA) - Qualifiers : Ysaline Bonaventure vs Lucrezia Stefanini</display-name>
+  </channel>
+  <channel id="daddylive-events_130">
+    <display-name>Challenger - Asuncion (PRY) - Qualifiers : Federico Aguilar Cardozo vs Conner Huertas Del Pino</display-name>
+  </channel>
+  <channel id="daddylive-events_131">
+    <display-name>Challenger - Asuncion (PRY) - Qualifiers : Lorenzo Joaquin Rodriguez vs Paulo Andre Saraiva</display-name>
+  </channel>
+  <channel id="daddylive-events_132">
+    <display-name>Challenger - Asuncion (PRY) - Qualifiers : Mariano Kestelboim vs Nicolas Kicker</display-name>
+  </channel>
+  <channel id="daddylive-events_133">
+    <display-name>Challenger - Merida (MEX) : Garrett Johns vs Sebastian Gima</display-name>
+  </channel>
+  <channel id="daddylive-events_134">
+    <display-name>Challenger - Merida (MEX) : Tyler Zink vs Vladyslav Orlov</display-name>
+  </channel>
+  <channel id="daddylive-events_135">
+    <display-name>UTR (M) - Manzanillo (MEX) : Gabriel Elicha Navas vs Michael Kaplan</display-name>
+  </channel>
+  <channel id="daddylive-events_136">
+    <display-name>UTR (F) - Manzanillo (MEX) : Gabriela Chaparro vs Maria Florencia Urrutia</display-name>
+  </channel>
+  <channel id="daddylive-events_137">
+    <display-name>UTR (M) - Manzanillo (MEX) : Juan Sebastian Gomez vs Lefteri Apostolou</display-name>
+  </channel>
+  <channel id="daddylive-events_138">
+    <display-name>UTR (F) - Manzanillo (MEX) : Mansi Vadyala vs Mia Horvit</display-name>
+  </channel>
+  <channel id="daddylive-events_139">
+    <display-name>Challenger - Asuncion (PRY) : Adolfo Daniel Vallejo vs Santiago Rodriguez Taverna</display-name>
+  </channel>
+  <channel id="daddylive-events_140">
+    <display-name>Challenger - Asuncion (PRY) : Juan Pablo Varillas vs Guido Ivan Justo</display-name>
+  </channel>
+  <channel id="daddylive-events_141">
+    <display-name>Challenger - Asuncion (PRY) : Pedro Boscardin Dias vs Juan Bautista Torres</display-name>
+  </channel>
+  <channel id="daddylive-events_142">
+    <display-name>Challenger - Asuncion (PRY) : Matheus Pucinelli de Almeida vs Facundo Mena</display-name>
+  </channel>
+  <channel id="daddylive-events_143">
+    <display-name>Challenger - Asuncion (PRY) : Roman Andres Burruchaga vs Genaro Alberto Olivieri</display-name>
+  </channel>
+  <channel id="daddylive-events_144">
+    <display-name>Challenger - Merida (MEX) : Renzo Olivo vs Max Wiskandt</display-name>
+  </channel>
+  <channel id="daddylive-events_145">
+    <display-name>UTR (F) - Newport Beach (USA) : Camille Kiss vs Emmi Kolyszko</display-name>
+  </channel>
+  <channel id="daddylive-events_146">
+    <display-name>UTR (F) - Newport Beach (USA) : Julia Ronney vs Eduarda Piai</display-name>
+  </channel>
+  <channel id="daddylive-events_147">
+    <display-name>Challenger - Merida (MEX) : Hugo Dellien vs Maxime Janvier</display-name>
+  </channel>
+  <channel id="daddylive-events_148">
+    <display-name>WWE Monday Night RAW</display-name>
+  </channel>
+  <channel id="daddylive-events_149">
+    <display-name>The Players Championship Round 1 | Day 1 | Afternoon Session</display-name>
+  </channel>
+  <channel id="daddylive-events_150">
+    <display-name>Ultimate Pool Champions League | Group Stage</display-name>
+  </channel>
+  <channel id="daddylive-events_151">
+    <display-name>The Players Championship Round 1 | Day 1 | Evening Session</display-name>
+  </channel>
+  <channel id="daddylive-events_152">
+    <display-name>TGL - New York Golf Club vs Los Angeles Golf Club</display-name>
+  </channel>
+  <channel id="daddylive-events_153">
+    <display-name>Tournament Challenge Marathon</display-name>
+  </channel>
+  <channel id="daddylive-events_154">
+    <display-name>College Softball : Texas vs Florida</display-name>
+  </channel>
+  <channel id="daddylive-events_155">
+    <display-name>MLB : Baltimore Orioles vs Boston Red Sox</display-name>
+  </channel>
+  <channel id="daddylive-events_156">
+    <display-name>MLB : Boston Red Sox vs Atlanta Braves</display-name>
+  </channel>
+  <channel id="daddylive-events_157">
+    <display-name>MLB : Pittsburgh Pirates vs Detroit Tigers</display-name>
+  </channel>
+  <channel id="daddylive-events_158">
+    <display-name>MLB : Minnesota Twins vs Pittsburgh Pirates</display-name>
+  </channel>
+  <channel id="daddylive-events_159">
+    <display-name>MLB : Toronto Blue Jays vs New York Yankees</display-name>
+  </channel>
+  <channel id="daddylive-events_160">
+    <display-name>MLB : New York Mets vs Miami Marlins</display-name>
+  </channel>
+  <channel id="daddylive-events_161">
+    <display-name>MLB : Tampa Bay Rays vs New York Mets</display-name>
+  </channel>
+  <channel id="daddylive-events_162">
+    <display-name>MLB : Arizona Diamondbacks vs Kansas City Royals</display-name>
+  </channel>
+  <channel id="daddylive-events_163">
+    <display-name>MLB : San Diego Padres vs Milwaukee Brewers</display-name>
+  </channel>
+  <channel id="daddylive-events_164">
+    <display-name>MLB : Los Angeles Angels vs Arizona Diamondbacks</display-name>
+  </channel>
+  <channel id="daddylive-events_165">
+    <display-name>MLB : Cincinnati Reds vs Cleveland Guardians</display-name>
+  </channel>
+  <channel id="daddylive-events_166">
+    <display-name>China - CBA : Beijing Ducks vs Tianjin Pioneers</display-name>
+  </channel>
+  <channel id="daddylive-events_167">
+    <display-name>China - CBA : Fujian Sturgeons vs Shanxi Loongs</display-name>
+  </channel>
+  <channel id="daddylive-events_168">
+    <display-name>China - CBA : Jiangsu Dragons vs Shandong Heroes</display-name>
+  </channel>
+  <channel id="daddylive-events_169">
+    <display-name>China - CBA : Liaoning Flying Leopards vs Jilin</display-name>
+  </channel>
+  <channel id="daddylive-events_170">
+    <display-name>China - CBA : Qingdao Eagles vs Ningbo Rockets</display-name>
+  </channel>
+  <channel id="daddylive-events_171">
+    <display-name>China - CBA : Shenzhen Leopards vs Beijing Royal Fighters</display-name>
+  </channel>
+  <channel id="daddylive-events_172">
+    <display-name>China - CBA : Zhejiang Guangsha Lions vs Shanghai Sharks</display-name>
+  </channel>
+  <channel id="daddylive-events_173">
+    <display-name>Women's State Basketball Cup Semi-Final : Lev Jerusalem vs Hapoel Petah Tikva</display-name>
+  </channel>
+  <channel id="daddylive-events_174">
+    <display-name>Greece A1 : BC Aris Thessaloniki vs. Panathinaikos BC</display-name>
+  </channel>
+  <channel id="daddylive-events_175">
+    <display-name>ABA LIGA : BC Dubai vs. KK Partizan Nis Belgrade</display-name>
+  </channel>
+  <channel id="daddylive-events_176">
+    <display-name>Süper Ligi : Anadolu Efes SK vs. Mersin Buyuksehir Belediyesi</display-name>
+  </channel>
+  <channel id="daddylive-events_177">
+    <display-name>Romania Liga Nationala : SCM Universitatea Craiova vs. BC Timisoara</display-name>
+  </channel>
+  <channel id="daddylive-events_178">
+    <display-name>Super League : Hapoel Afula vs Ironi Ramat-Gan</display-name>
+  </channel>
+  <channel id="daddylive-events_179">
+    <display-name>Russia Superliga, Women : Rostov-Don vs CSKA Moscow</display-name>
+  </channel>
+  <channel id="daddylive-events_180">
+    <display-name>KLS Ž : Spartak vs Kraljevo</display-name>
+  </channel>
+  <channel id="daddylive-events_181">
+    <display-name>ABA LIGA : Kk Split vs. KK Cibona</display-name>
+  </channel>
+  <channel id="daddylive-events_182">
+    <display-name>Greece A1 : BC Maroussi Athens vs. BC Olympiakos Piraeus</display-name>
+  </channel>
+  <channel id="daddylive-events_183">
+    <display-name>Super League : Hapoel Jerusalem vs Hapoel Haifa</display-name>
+  </channel>
+  <channel id="daddylive-events_184">
+    <display-name>Italian League : Virtus Segafredo Bologna vs Dolomiti Energia Trentino</display-name>
+  </channel>
+  <channel id="daddylive-events_185">
+    <display-name>Slovenian League (M) : Podčetrtek vs Šentjur</display-name>
+  </channel>
+  <channel id="daddylive-events_186">
+    <display-name>Unrivaled Basketball : Final: Teams TBA</display-name>
+  </channel>
+  <channel id="daddylive-events_187">
+    <display-name>NBA : Miami Heat vs New York Knicks</display-name>
+  </channel>
+  <channel id="daddylive-events_188">
+    <display-name>NBA : Philadelphia 76ers vs Houston Rockets</display-name>
+  </channel>
+  <channel id="daddylive-events_189">
+    <display-name>NBA : Indiana Pacers vs Minnesota Timberwolves</display-name>
+  </channel>
+  <channel id="daddylive-events_190">
+    <display-name>NBA : Detroit Pistons vs New Orleans Pelicans</display-name>
+  </channel>
+  <channel id="daddylive-events_191">
+    <display-name>NBA : Chicago Bulls vs Utah Jazz</display-name>
+  </channel>
+  <channel id="daddylive-events_192">
+    <display-name>NBA : Denver Nuggets vs Golden State Warriors</display-name>
+  </channel>
+  <channel id="daddylive-events_193">
+    <display-name>NBA : Toronto Raptors vs Phoenix Suns</display-name>
+  </channel>
+  <channel id="daddylive-events_194">
+    <display-name>NBA : Memphis Grizzlies vs Sacramento Kings</display-name>
+  </channel>
+  <channel id="daddylive-events_195">
+    <display-name>NBA : Washington Wizards vs Portland Trail Blazers</display-name>
+  </channel>
+  <channel id="daddylive-events_196">
+    <display-name>NBA : San Antonio Spurs vs Los Angeles Lakers</display-name>
+  </channel>
+  <channel id="daddylive-events_197">
+    <display-name>Players Championship 7 - Halle 39, Hildesheim</display-name>
+  </channel>
+  <channel id="daddylive-events_198">
+    <display-name>PBA Bowling World Series of Bowling XVI, Viper Championship</display-name>
+  </channel>
+  <channel id="daddylive-events_199">
+    <display-name>NB I : Magyar Futsal Akademia vs Nyirbatori</display-name>
+  </channel>
+  <channel id="daddylive-events_200">
+    <display-name>Live racing from Down Royal and Wexford</display-name>
+  </channel>
+  <channel id="daddylive-events_201">
+    <display-name>Live racing from Southwell, Fontwell and Wolverhampton</display-name>
+  </channel>
+  <channel id="daddylive-events_202">
+    <display-name>MHL : HC Taifun U20 vs Kapitan Stupino U20</display-name>
+  </channel>
+  <channel id="daddylive-events_203">
+    <display-name>KHL : Sibir Novosibirsk vs Barys Astana</display-name>
+  </channel>
+  <channel id="daddylive-events_204">
+    <display-name>KHL : Metallurg Magnitogorsk vs Vityaz Moscow Oblast</display-name>
+  </channel>
+  <channel id="daddylive-events_205">
+    <display-name>KHL : Lokomotiv Yaroslavl vs Admiral Vladivostok</display-name>
+  </channel>
+  <channel id="daddylive-events_206">
+    <display-name>MHL : Mytishchinskie Atlanty U20 vs SKA-1946 U20</display-name>
+  </channel>
+  <channel id="daddylive-events_207">
+    <display-name>Slovakia Extraliga : HK Vlci Zilina vs. HC 05 Banska Bystrica</display-name>
+  </channel>
+  <channel id="daddylive-events_208">
+    <display-name>Slovakia Extraliga : HK Nitra vs. HK Poprad</display-name>
+  </channel>
+  <channel id="daddylive-events_209">
+    <display-name>HockeyAllsvenskan : Sodertalje vs Kalmar</display-name>
+  </channel>
+  <channel id="daddylive-events_210">
+    <display-name>HockeyAllsvenskan : IF Bjorkloven vs AIK</display-name>
+  </channel>
+  <channel id="daddylive-events_211">
+    <display-name>Swiss - NLA - Playoff : Lausanne vs SC Langenau Tigers</display-name>
+  </channel>
+  <channel id="daddylive-events_212">
+    <display-name>Swiss - NLA - Playoff : ZSC Lions vs Kloten</display-name>
+  </channel>
+  <channel id="daddylive-events_213">
+    <display-name>NHL : Buffalo Sabres vs Boston Bruins</display-name>
+  </channel>
+  <channel id="daddylive-events_214">
+    <display-name>NHL : Philadelphia Flyers vs Tampa Bay Lightning</display-name>
+  </channel>
+  <channel id="daddylive-events_215">
+    <display-name>NHL : New Jersey Devils vs Columbus Blue Jackets</display-name>
+  </channel>
+  <channel id="daddylive-events_216">
+    <display-name>NHL : Calgary Flames vs Toronto Maple Leafs</display-name>
+  </channel>
+  <channel id="daddylive-events_217">
+    <display-name>NHL : Los Angeles Kings vs Minnesota Wild</display-name>
+  </channel>
+  <channel id="daddylive-events_218">
+    <display-name>Leinster Rugby Senior Cup Final</display-name>
+  </channel>
+  <channel id="daddylive-events_219">
+    <display-name>PlusLiga : Trefl Gdansk vs. KS Norwid Czestochowa</display-name>
+  </channel>
+  <channel id="daddylive-events_220">
+    <display-name>Orlen Liga Women : LKS Lodz vs. Budowlani Lodz</display-name>
+  </channel>
+  <channel id="daddylive-events_221">
+    <display-name>Superliga Masculina De Vôlei : Blumenau vs São José</display-name>
+  </channel>
+  <channel id="daddylive-events_222">
+    <display-name>Superliga Feminina De Vôlei : Minas vs Osasco</display-name>
+  </channel>
+  <channel id="daddylive-events_223">
+    <display-name>2025 World Women's Curling Championship : Canada vs. Denmark</display-name>
+  </channel>
+  <channel id="daddylive-events_224">
+    <display-name>Group stage | Women | World Championship : Denmark vs Norway</display-name>
+  </channel>
+  <channel id="daddylive-events_225">
+    <display-name>2025 World Women's Curling Championship : United States vs Canada</display-name>
+  </channel>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_1">
+    <title>Divorce Court Season 26, Episode 126</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_2">
+    <title>Hell's Kitchen Season 12, Episode 8</title>
+    <desc>05:00 AM PT / 08:00 AM ET / 12:00 PM GMT
+01:00 PM CET / 08:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_3">
+    <title>The Price Is Right</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_4">
+    <title>St. Patrick's Day Parade 2025 Live</title>
+    <desc>08:00 AM PT / 11:00 AM ET / 03:00 PM GMT
+04:00 PM CET / 11:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_5">
+    <title>Beyond the Gates Season 1, Episode 16</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_6">
+    <title>Pictionary Season 3, Episode 111</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_7">
+    <title>Muchacha italiana viene a casarse Season 1, Episode 38</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_8">
+    <title>General Hospital Season 62, Episode 130</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_9">
+    <title>The Kelly Clarkson Show Season 6, Episode 111</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_10">
+    <title>Hot Bench Season 11, Episode 103</title>
+    <desc>01:00 PM PT / 04:00 PM ET / 08:00 PM GMT
+09:00 PM CET / 04:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_11">
+    <title>Jeopardy! Season 41, Episode 136</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_12">
+    <title>LEGO Disney Princess: The Castle Quest</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_13">
+    <title>American Ninja Warrior Qualifier 1 Season 12</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_14">
+    <title>Poker Masters New</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_15">
+    <title>Beyond the Gates Season 1, Episode 6</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_16">
+    <title>Love &amp;amp; Hip Hop Miami Season 6, Episode 18</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_17">
+    <title>90 Day: The Last Resort Season 2, Episode 16</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_18">
+    <title>Mysteries of the Unknown Season 9, Episode 12</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_19">
+    <title>Spring Baking Championship Season 11, Episode 2</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_20">
+    <title>All American Season 7, Episode 7</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_21">
+    <title>2025 iHeartRadio Music Awards Live</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_22">
+    <title>The Voice Season 27, Episode 7</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_23">
+    <title>The Bachelor Season 29, Episode 8</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_24">
+    <title>Antiques Roadshow Season 29, Episode 9</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_25">
+    <title>NCAA March Madness Bracket Breakdown</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_26">
+    <title>Below Deck Down Under Season 3, Episode 7</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_27">
+    <title>Contraband: Seized at the Border Season 6, Episode 8</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_28">
+    <title>Celtics City Season 1, Episode 3</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_29">
+    <title>A Body in the Snow: The Trial of Karen Read Season 1, Premiere</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_30">
+    <title>Gypsy Rose: Life After Lock Up Season 2, Episode 2</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_31">
+    <title>College GameNight Episode 3 • Live</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_32">
+    <title>Rachael Ray in Tuscany Season 1, Episode 26</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_33">
+    <title>History's Greatest Mysteries Season 6, Episode 7</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_34">
+    <title>Fatal Attraction Season 15, Episode 42</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_35">
+    <title>Instant Italian With Anna Gass Season 1, Episode 3</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_36">
+    <title>Confessions of Octomom Season 1, Episode 2</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_37">
+    <title>The Calling: A Medical School Journey</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_38">
+    <title>The Hunting Party Season 1, Episode 7</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_39">
+    <title>The Secret Lives of Mormon Wivesb Season 1, Episode 8</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_40">
+    <title>Juegos de amor y poder Season 1, Episode 1 • Premiere</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_41">
+    <title>History's Most Shocking Season 1, Episode 7</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_42">
+    <title>Israel - Liga Leumit : Maccabi Herzliya vs Hapoel Acre</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_43">
+    <title>Bulgaria - Second League : Dobrudzha 1919 vs Yantra 2019</title>
+    <desc>06:30 AM PT / 09:30 AM ET / 01:30 PM GMT
+02:30 PM CET / 09:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_44">
+    <title>Israel - Liga Leumit : Hapoel Rishon LeZion vs Hapoel Nazareth Illit</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_45">
+    <title>Israel - Liga Leumit : Hapoel Kfar Saba vs Kafr Qasim</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_46">
+    <title>Frauen-Bundesliga : Freiburg vs Eintracht Frankfurt</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_47">
+    <title>Bosnia and Herzegovina - Premijer Liga : Borac Banja Luka vs Široki Brijeg</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_48">
+    <title>Russia - FNL : Arsenal Tula vs Chayka</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_49">
+    <title>Romania - Liga I : Sepsi vs SCM Gloria Buzău</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_50">
+    <title>Serbia - Super Liga : Novi Pazar vs Železničar Pančevo</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_51">
+    <title>Italy - Serie C : Trento vs Alcione</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_52">
+    <title>Italy - Serie C : Lecco vs Vicenza</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_53">
+    <title>Italy - Serie C : Calcio Padova vs Pergolettese</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_54">
+    <title>Italy - Serie C : Virtus Entella vs Sestri Levante</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_55">
+    <title>Italy - Serie C : SPAL vs Ternana</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_56">
+    <title>Italy - Serie C : Potenza Calcio vs Team Altamura</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_57">
+    <title>Spain - Segunda Division : CD Castellon vs Deportivo La Coruña</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_58">
+    <title>Chile - Primera B : Recoleta vs Santiago Morning</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_59">
+    <title>Argentina - Primera Nacional : Atlanta vs Los Andes</title>
+    <desc>02:10 PM PT / 05:10 PM ET / 09:10 PM GMT
+10:10 PM CET / 05:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_60">
+    <title>Argentina - Primera División : Unión Santa Fe vs Banfield</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_61">
+    <title>Argentina - Primera División : Tigre vs Central Córdoba SdE</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_62">
+    <title>Jamaica National Premier League : Mount Pleasant Academy vs Racing United</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_63">
+    <title>Uruguay - Primera Division : Cerro Largo vs Cerro</title>
+    <desc>03:00 PM PT / 06:00 PM ET / 10:00 PM GMT
+11:00 PM CET / 06:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_64">
+    <title>Campeonato Brasileiro De Futebol Sub-20 : Atlético-Mg vs Santos</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_65">
+    <title>Argentina - Primera División : San Martín San Juan vs Platense</title>
+    <desc>05:15 PM PT / 08:15 PM ET / 12:15 AM GMT
+01:15 AM CET / 08:15 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_66">
+    <title>Argentina - Primera División : Atlético Tucumán vs Vélez Sarsfield</title>
+    <desc>05:15 PM PT / 08:15 PM ET / 12:15 AM GMT
+01:15 AM CET / 08:15 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_67">
+    <title>Uruguay - Primera Division : River Plate vs Boston River</title>
+    <desc>05:15 PM PT / 08:15 PM ET / 12:15 AM GMT
+01:15 AM CET / 08:15 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_68">
+    <title>Argentina - Primera Nacional : Temperley vs Gimnasia Mendoza</title>
+    <desc>05:45 PM PT / 08:45 PM ET / 12:45 AM GMT
+01:45 AM CET / 08:45 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_69">
+    <title>Jamaica National Premier League : Montego Bay United vs Arnett Gardens</title>
+    <desc>05:45 PM PT / 08:45 PM ET / 12:45 AM GMT
+01:45 AM CET / 08:45 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_70">
+    <title>Liga MX Femenil : Tigres UANL vs Mazatlán</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_71">
+    <title>3rd Women's T20 : New Zealand W vs Sri Lanka W</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_72">
+    <title>2nd T20 : New Zealand vs Pakistan</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_73">
+    <title>UTR (M) - Dubai (EAU) : Tsihon Fedorov vs Valentin Vanta</title>
+    <desc>10:00 PM PT / 01:00 AM ET / 05:00 AM GMT
+06:00 AM CET / 01:00 PM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_74">
+    <title>UTR (M) - Dubai (EAU) : Yizhou Liu vs Samuil Konov</title>
+    <desc>10:00 PM PT / 01:00 AM ET / 05:00 AM GMT
+06:00 AM CET / 01:00 PM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_75">
+    <title>UTR (M) - Dubai (EAU) : Teodor Giusca vs Freddie Ridout</title>
+    <desc>11:10 PM PT / 02:10 AM ET / 06:10 AM GMT
+07:10 AM CET / 02:10 PM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_76">
+    <title>UTR (M) - Dubai (EAU) : Viktor Jovic vs Joris Moret</title>
+    <desc>11:10 PM PT / 02:10 AM ET / 06:10 AM GMT
+07:10 AM CET / 02:10 PM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_77">
+    <title>UTR (M) - Dubai (EAU) : David C.Carteputreda vs Alexander Zgirovsky</title>
+    <desc>12:30 AM PT / 03:30 AM ET / 07:30 AM GMT
+08:30 AM CET / 03:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_78">
+    <title>UTR (M) - Dubai (EAU) : Jimmy Yang vs Igor Kolaric</title>
+    <desc>12:30 AM PT / 03:30 AM ET / 07:30 AM GMT
+08:30 AM CET / 03:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_79">
+    <title>UTR (M) - Olomouc (CEH) : Petr Michnev vs Jan Klimas</title>
+    <desc>12:30 AM PT / 03:30 AM ET / 07:30 AM GMT
+08:30 AM CET / 03:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_80">
+    <title>UTR (M) - Dubai (EAU) : Karlo Cubelic vs Ronetto Van Tilburg</title>
+    <desc>12:40 AM PT / 03:40 AM ET / 07:40 AM GMT
+08:40 AM CET / 03:40 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_81">
+    <title>UTR (M) - Olomouc (CEH) : Adam Jurajda vs Patrik Homola</title>
+    <desc>01:45 AM PT / 04:45 AM ET / 08:45 AM GMT
+09:45 AM CET / 04:45 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_82">
+    <title>Challenger - Zadar (CRO) - Qualifiers : Andrej Martin vs Franco Agamenone</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_83">
+    <title>Challenger - Zadar (CRO) - Qualifiers : Luka Pavlovic vs Josip Simundza</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_84">
+    <title>Challenger - Zadar (CRO) - Qualifiers : Oleksandr Ovcharenko vs Luka Mikrut</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_85">
+    <title>Challenger - Murcia (SPA) - Qualifiers : Andres Santamarta Roig vs Miguel Damas</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_86">
+    <title>Challenger - Murcia (SPA) - Qualifiers : Daniel Merida Aguilar vs David Jorda Sanchis</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_87">
+    <title>UTR (M) - Olomouc (CEH) : Josef Vagner - David Schwarc</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_88">
+    <title>Challenger - Murcia (SPA) - Qualifiers : Valentin Vacherot vs Michiel de Krom</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_89">
+    <title>Challenger - Zadar (CRO) - Qualifiers : Daniel Michalski vs Zdenek Kolar</title>
+    <desc>03:10 AM PT / 06:10 AM ET / 10:10 AM GMT
+11:10 AM CET / 06:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_90">
+    <title>Challenger - Zadar (CRO) - Qualifiers : Lilian Marmousez vs Marko Topo</title>
+    <desc>03:10 AM PT / 06:10 AM ET / 10:10 AM GMT
+11:10 AM CET / 06:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_91">
+    <title>Challenger - Zadar (CRO) - Qualifiers : Mirza Basic vs Michael Vrbensky</title>
+    <desc>03:10 AM PT / 06:10 AM ET / 10:10 AM GMT
+11:10 AM CET / 06:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_92">
+    <title>Challenger - Murcia (SPA) - Qualifiers : Daniel Cukierman vs Justin Engel</title>
+    <desc>04:10 AM PT / 07:10 AM ET / 11:10 AM GMT
+12:10 PM CET / 07:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_93">
+    <title>Challenger - Murcia (SPA) - Qualifiers : Nicolas Alvarez Varona vs Gabriele Pennaforti</title>
+    <desc>04:10 AM PT / 07:10 AM ET / 11:10 AM GMT
+12:10 PM CET / 07:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_94">
+    <title>Challenger - Zadar (CRO) : Carlos Sanchez Jover vs Vit Kopriva</title>
+    <desc>04:20 AM PT / 07:20 AM ET / 11:20 AM GMT
+12:20 PM CET / 07:20 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_95">
+    <title>Challenger - Zadar (CRO) : Dino Prizmic vs Elias Ymer</title>
+    <desc>04:20 AM PT / 07:20 AM ET / 11:20 AM GMT
+12:20 PM CET / 07:20 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_96">
+    <title>Challenger - Zadar (CRO) : Enrico Dalla Valle vs Max Hans Rehberg</title>
+    <desc>04:20 AM PT / 07:20 AM ET / 11:20 AM GMT
+12:20 PM CET / 07:20 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_97">
+    <title>UTR (M) - Olomouc (CEH) : Timur Maulenov vs Bartosz Wojnar</title>
+    <desc>04:30 AM PT / 07:30 AM ET / 11:30 AM GMT
+12:30 PM CET / 07:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_98">
+    <title>Challenger - Zadar (CRO) : Matej Dodig vs Jozef Kovalik</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_99">
+    <title>Challenger - Zadar (CRO) : Zsombor Piros vs Filip Misolic</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_100">
+    <title>Challenger - Murcia (SPA) : Andrea Pellegrino vs Jesper de Jong</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_101">
+    <title>Challenger - Murcia (SPA) : Javier Barranco Cosano vs Nicolai Budkov Kjaer</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_102">
+    <title>Challenger - Murcia (SPA) : Sebastian Ofner vs Kimmer Coppejans</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_103">
+    <title>Challenger - Murcia (SPA) : Harold Mayot vs Edas Butvilas</title>
+    <desc>07:10 AM PT / 10:10 AM ET / 02:10 PM GMT
+03:10 PM CET / 10:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_104">
+    <title>Challenger - Murcia (SPA) : Pablo Llamas Ruiz vs Sumit Nagal</title>
+    <desc>07:10 AM PT / 10:10 AM ET / 02:10 PM GMT
+03:10 PM CET / 10:10 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_105">
+    <title>Challenger - Merida (MEX) - Qualifiers : Ivan Denisov vs Alan Fernando Rubio Fierros</title>
+    <desc>11:10 AM PT / 02:10 PM ET / 06:10 PM GMT
+07:10 PM CET / 02:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_106">
+    <title>Challenger - Merida (MEX) - Qualifiers : Karl Poling vs Ivan Marrero Curbelo</title>
+    <desc>11:10 AM PT / 02:10 PM ET / 06:10 PM GMT
+07:10 PM CET / 02:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_107">
+    <title>ATP - Miami (USA) - Qualifiers : Adam Walton vs Mikhail Kukushkin</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_108">
+    <title>ATP - Miami (USA) - Qualifiers : Francisco Comesana vs Michael Mmoh</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_109">
+    <title>ATP - Miami (USA) - Qualifiers : Gabriel Diallo vs Yosuke Watanuki</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_110">
+    <title>ATP - Miami (USA) - Qualifiers : Hugo Gaston vs Hady Habib</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_111">
+    <title>ATP - Miami (USA) - Qualifiers : James Duckworth vs Federico Agustin Gomez</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_112">
+    <title>ATP - Miami (USA) - Qualifiers : Martin Damm Jr vs Brandon Holt</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_113">
+    <title>ATP - Miami (USA) - Qualifiers : Mikael Ymer vs Billy Harris</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_114">
+    <title>ATP - Miami (USA) - Qualifiers : Shintaro Mochizuki vs Yannick Hanfmann</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_115">
+    <title>ATP - Miami (USA) - Qualifiers : Stefano Napolitano vs Tristan Schoolkate</title>
+    <desc>11:40 AM PT / 02:40 PM ET / 06:40 PM GMT
+07:40 PM CET / 02:40 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_116">
+    <title>WTA - Miami (USA) - Qualifiers : Bernarda Pera vs Robin Montgomery</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_117">
+    <title>UTR (F) - Manzanillo (MEX) : C.I. Millan vs Summer Curtis</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_118">
+    <title>UTR (F) - Manzanillo (MEX) : Eduardo Yahir Orozco Rangel vs Juan Sebastian Osorio</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_119">
+    <title>UTR (F) - Newport Beach (USA) : Elena Mireles vs Danielle Willson</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_120">
+    <title>UTR (F) - Newport Beach (USA) : Emily Deming vs Dejana Radanovic</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_121">
+    <title>WTA - Miami (USA) - Qualifiers : Ena Shibahara vs Elena-Gabriela Ruse</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_122">
+    <title>UTR (F) - Manzanillo (MEX) : Ingrid Carolina Millan vs Summer Curtis</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_123">
+    <title>WTA - Miami (USA) - Qualifiers : Kimberly Birrell vs Harriet Dart</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_124">
+    <title>UTR (F) - Manzanillo (MEX) : Martina Capurro Taborda vs Isabel Adrover Gallego</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_125">
+    <title>WTA - Miami (USA) - Qualifiers : Maya Joint vs Rebeka Masarova</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_126">
+    <title>UTR (F) - Newport Beach (USA) : Sirena Waas vs Brandy Walker</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_127">
+    <title>WTA - Miami (USA) - Qualifiers : Sonay Kartal vs Taylor Townsend</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_128">
+    <title>Challenger - Merida (MEX) - Qualifiers : Trey Hilderbrand vs Nicolas Villalon Valdes</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_129">
+    <title>WTA - Miami (USA) - Qualifiers : Ysaline Bonaventure vs Lucrezia Stefanini</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_130">
+    <title>Challenger - Asuncion (PRY) - Qualifiers : Federico Aguilar Cardozo vs Conner Huertas Del Pino</title>
+    <desc>12:10 PM PT / 03:10 PM ET / 07:10 PM GMT
+08:10 PM CET / 03:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_131">
+    <title>Challenger - Asuncion (PRY) - Qualifiers : Lorenzo Joaquin Rodriguez vs Paulo Andre Saraiva</title>
+    <desc>12:10 PM PT / 03:10 PM ET / 07:10 PM GMT
+08:10 PM CET / 03:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_132">
+    <title>Challenger - Asuncion (PRY) - Qualifiers : Mariano Kestelboim vs Nicolas Kicker</title>
+    <desc>12:10 PM PT / 03:10 PM ET / 07:10 PM GMT
+08:10 PM CET / 03:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_133">
+    <title>Challenger - Merida (MEX) : Garrett Johns vs Sebastian Gima</title>
+    <desc>01:00 PM PT / 04:00 PM ET / 08:00 PM GMT
+09:00 PM CET / 04:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_134">
+    <title>Challenger - Merida (MEX) : Tyler Zink vs Vladyslav Orlov</title>
+    <desc>01:00 PM PT / 04:00 PM ET / 08:00 PM GMT
+09:00 PM CET / 04:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_135">
+    <title>UTR (M) - Manzanillo (MEX) : Gabriel Elicha Navas vs Michael Kaplan</title>
+    <desc>01:10 PM PT / 04:10 PM ET / 08:10 PM GMT
+09:10 PM CET / 04:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_136">
+    <title>UTR (F) - Manzanillo (MEX) : Gabriela Chaparro vs Maria Florencia Urrutia</title>
+    <desc>01:10 PM PT / 04:10 PM ET / 08:10 PM GMT
+09:10 PM CET / 04:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_137">
+    <title>UTR (M) - Manzanillo (MEX) : Juan Sebastian Gomez vs Lefteri Apostolou</title>
+    <desc>01:10 PM PT / 04:10 PM ET / 08:10 PM GMT
+09:10 PM CET / 04:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_138">
+    <title>UTR (F) - Manzanillo (MEX) : Mansi Vadyala vs Mia Horvit</title>
+    <desc>01:10 PM PT / 04:10 PM ET / 08:10 PM GMT
+09:10 PM CET / 04:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_139">
+    <title>Challenger - Asuncion (PRY) : Adolfo Daniel Vallejo vs Santiago Rodriguez Taverna</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_140">
+    <title>Challenger - Asuncion (PRY) : Juan Pablo Varillas vs Guido Ivan Justo</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_141">
+    <title>Challenger - Asuncion (PRY) : Pedro Boscardin Dias vs Juan Bautista Torres</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_142">
+    <title>Challenger - Asuncion (PRY) : Matheus Pucinelli de Almeida vs Facundo Mena</title>
+    <desc>03:10 PM PT / 06:10 PM ET / 10:10 PM GMT
+11:10 PM CET / 06:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_143">
+    <title>Challenger - Asuncion (PRY) : Roman Andres Burruchaga vs Genaro Alberto Olivieri</title>
+    <desc>03:10 PM PT / 06:10 PM ET / 10:10 PM GMT
+11:10 PM CET / 06:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_144">
+    <title>Challenger - Merida (MEX) : Renzo Olivo vs Max Wiskandt</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_145">
+    <title>UTR (F) - Newport Beach (USA) : Camille Kiss vs Emmi Kolyszko</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_146">
+    <title>UTR (F) - Newport Beach (USA) : Julia Ronney vs Eduarda Piai</title>
+    <desc>06:30 PM PT / 09:30 PM ET / 01:30 AM GMT
+02:30 AM CET / 09:30 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_147">
+    <title>Challenger - Merida (MEX) : Hugo Dellien vs Maxime Janvier</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_148">
+    <title>WWE Monday Night RAW</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_149">
+    <title>The Players Championship Round 1 | Day 1 | Afternoon Session</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_150">
+    <title>Ultimate Pool Champions League | Group Stage</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_151">
+    <title>The Players Championship Round 1 | Day 1 | Evening Session</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_152">
+    <title>TGL - New York Golf Club vs Los Angeles Golf Club</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_153">
+    <title>Tournament Challenge Marathon</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_154">
+    <title>College Softball : Texas vs Florida</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_155">
+    <title>MLB : Baltimore Orioles vs Boston Red Sox</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_156">
+    <title>MLB : Boston Red Sox vs Atlanta Braves</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_157">
+    <title>MLB : Pittsburgh Pirates vs Detroit Tigers</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_158">
+    <title>MLB : Minnesota Twins vs Pittsburgh Pirates</title>
+    <desc>10:05 AM PT / 01:05 PM ET / 05:05 PM GMT
+06:05 PM CET / 01:05 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_159">
+    <title>MLB : Toronto Blue Jays vs New York Yankees</title>
+    <desc>10:07 AM PT / 01:07 PM ET / 05:07 PM GMT
+06:07 PM CET / 01:07 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_160">
+    <title>MLB : New York Mets vs Miami Marlins</title>
+    <desc>10:10 AM PT / 01:10 PM ET / 05:10 PM GMT
+06:10 PM CET / 01:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_161">
+    <title>MLB : Tampa Bay Rays vs New York Mets</title>
+    <desc>10:10 AM PT / 01:10 PM ET / 05:10 PM GMT
+06:10 PM CET / 01:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_162">
+    <title>MLB : Arizona Diamondbacks vs Kansas City Royals</title>
+    <desc>01:05 PM PT / 04:05 PM ET / 08:05 PM GMT
+09:05 PM CET / 04:05 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_163">
+    <title>MLB : San Diego Padres vs Milwaukee Brewers</title>
+    <desc>01:10 PM PT / 04:10 PM ET / 08:10 PM GMT
+09:10 PM CET / 04:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_164">
+    <title>MLB : Los Angeles Angels vs Arizona Diamondbacks</title>
+    <desc>01:10 PM PT / 04:10 PM ET / 08:10 PM GMT
+09:10 PM CET / 04:10 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_165">
+    <title>MLB : Cincinnati Reds vs Cleveland Guardians</title>
+    <desc>06:05 PM PT / 09:05 PM ET / 01:05 AM GMT
+02:05 AM CET / 09:05 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_166">
+    <title>China - CBA : Beijing Ducks vs Tianjin Pioneers</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_167">
+    <title>China - CBA : Fujian Sturgeons vs Shanxi Loongs</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_168">
+    <title>China - CBA : Jiangsu Dragons vs Shandong Heroes</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_169">
+    <title>China - CBA : Liaoning Flying Leopards vs Jilin</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_170">
+    <title>China - CBA : Qingdao Eagles vs Ningbo Rockets</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_171">
+    <title>China - CBA : Shenzhen Leopards vs Beijing Royal Fighters</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_172">
+    <title>China - CBA : Zhejiang Guangsha Lions vs Shanghai Sharks</title>
+    <desc>04:35 AM PT / 07:35 AM ET / 11:35 AM GMT
+12:35 PM CET / 07:35 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_173">
+    <title>Women's State Basketball Cup Semi-Final : Lev Jerusalem vs Hapoel Petah Tikva</title>
+    <desc>07:40 AM PT / 10:40 AM ET / 02:40 PM GMT
+03:40 PM CET / 10:40 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_174">
+    <title>Greece A1 : BC Aris Thessaloniki vs. Panathinaikos BC</title>
+    <desc>08:15 AM PT / 11:15 AM ET / 03:15 PM GMT
+04:15 PM CET / 11:15 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_175">
+    <title>ABA LIGA : BC Dubai vs. KK Partizan Nis Belgrade</title>
+    <desc>08:30 AM PT / 11:30 AM ET / 03:30 PM GMT
+04:30 PM CET / 11:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_176">
+    <title>Süper Ligi : Anadolu Efes SK vs. Mersin Buyuksehir Belediyesi</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_177">
+    <title>Romania Liga Nationala : SCM Universitatea Craiova vs. BC Timisoara</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_178">
+    <title>Super League : Hapoel Afula vs Ironi Ramat-Gan</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_179">
+    <title>Russia Superliga, Women : Rostov-Don vs CSKA Moscow</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_180">
+    <title>KLS Ž : Spartak vs Kraljevo</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_181">
+    <title>ABA LIGA : Kk Split vs. KK Cibona</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_182">
+    <title>Greece A1 : BC Maroussi Athens vs. BC Olympiakos Piraeus</title>
+    <desc>11:15 AM PT / 02:15 PM ET / 06:15 PM GMT
+07:15 PM CET / 02:15 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_183">
+    <title>Super League : Hapoel Jerusalem vs Hapoel Haifa</title>
+    <desc>11:45 AM PT / 02:45 PM ET / 06:45 PM GMT
+07:45 PM CET / 02:45 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_184">
+    <title>Italian League : Virtus Segafredo Bologna vs Dolomiti Energia Trentino</title>
+    <desc>11:55 AM PT / 02:55 PM ET / 06:55 PM GMT
+07:55 PM CET / 02:55 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_185">
+    <title>Slovenian League (M) : Podčetrtek vs Šentjur</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_186">
+    <title>Unrivaled Basketball : Final: Teams TBA</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_187">
+    <title>NBA : Miami Heat vs New York Knicks</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_188">
+    <title>NBA : Philadelphia 76ers vs Houston Rockets</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_189">
+    <title>NBA : Indiana Pacers vs Minnesota Timberwolves</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_190">
+    <title>NBA : Detroit Pistons vs New Orleans Pelicans</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_191">
+    <title>NBA : Chicago Bulls vs Utah Jazz</title>
+    <desc>06:00 PM PT / 09:00 PM ET / 01:00 AM GMT
+02:00 AM CET / 09:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_192">
+    <title>NBA : Denver Nuggets vs Golden State Warriors</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_193">
+    <title>NBA : Toronto Raptors vs Phoenix Suns</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_194">
+    <title>NBA : Memphis Grizzlies vs Sacramento Kings</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_195">
+    <title>NBA : Washington Wizards vs Portland Trail Blazers</title>
+    <desc>07:00 PM PT / 10:00 PM ET / 02:00 AM GMT
+03:00 AM CET / 10:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_196">
+    <title>NBA : San Antonio Spurs vs Los Angeles Lakers</title>
+    <desc>07:30 PM PT / 10:30 PM ET / 02:30 AM GMT
+03:30 AM CET / 10:30 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_197">
+    <title>Players Championship 7 - Halle 39, Hildesheim</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_198">
+    <title>PBA Bowling World Series of Bowling XVI, Viper Championship</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_199">
+    <title>NB I : Magyar Futsal Akademia vs Nyirbatori</title>
+    <desc>11:45 AM PT / 02:45 PM ET / 06:45 PM GMT
+07:45 PM CET / 02:45 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_200">
+    <title>Live racing from Down Royal and Wexford</title>
+    <desc>06:00 AM PT / 09:00 AM ET / 01:00 PM GMT
+02:00 PM CET / 09:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_201">
+    <title>Live racing from Southwell, Fontwell and Wolverhampton</title>
+    <desc>06:30 AM PT / 09:30 AM ET / 01:30 PM GMT
+02:30 PM CET / 09:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_202">
+    <title>MHL : HC Taifun U20 vs Kapitan Stupino U20</title>
+    <desc>02:00 AM PT / 05:00 AM ET / 09:00 AM GMT
+10:00 AM CET / 05:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_203">
+    <title>KHL : Sibir Novosibirsk vs Barys Astana</title>
+    <desc>05:30 AM PT / 08:30 AM ET / 12:30 PM GMT
+01:30 PM CET / 08:30 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_204">
+    <title>KHL : Metallurg Magnitogorsk vs Vityaz Moscow Oblast</title>
+    <desc>07:00 AM PT / 10:00 AM ET / 02:00 PM GMT
+03:00 PM CET / 10:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_205">
+    <title>KHL : Lokomotiv Yaroslavl vs Admiral Vladivostok</title>
+    <desc>09:00 AM PT / 12:00 PM ET / 04:00 PM GMT
+05:00 PM CET / 12:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_206">
+    <title>MHL : Mytishchinskie Atlanty U20 vs SKA-1946 U20</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_207">
+    <title>Slovakia Extraliga : HK Vlci Zilina vs. HC 05 Banska Bystrica</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_208">
+    <title>Slovakia Extraliga : HK Nitra vs. HK Poprad</title>
+    <desc>10:00 AM PT / 01:00 PM ET / 05:00 PM GMT
+06:00 PM CET / 01:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_209">
+    <title>HockeyAllsvenskan : Sodertalje vs Kalmar</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_210">
+    <title>HockeyAllsvenskan : IF Bjorkloven vs AIK</title>
+    <desc>11:00 AM PT / 02:00 PM ET / 06:00 PM GMT
+07:00 PM CET / 02:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_211">
+    <title>Swiss - NLA - Playoff : Lausanne vs SC Langenau Tigers</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_212">
+    <title>Swiss - NLA - Playoff : ZSC Lions vs Kloten</title>
+    <desc>12:00 PM PT / 03:00 PM ET / 07:00 PM GMT
+08:00 PM CET / 03:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_213">
+    <title>NHL : Buffalo Sabres vs Boston Bruins</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_214">
+    <title>NHL : Philadelphia Flyers vs Tampa Bay Lightning</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_215">
+    <title>NHL : New Jersey Devils vs Columbus Blue Jackets</title>
+    <desc>04:00 PM PT / 07:00 PM ET / 11:00 PM GMT
+12:00 AM CET / 07:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_216">
+    <title>NHL : Calgary Flames vs Toronto Maple Leafs</title>
+    <desc>04:30 PM PT / 07:30 PM ET / 11:30 PM GMT
+12:30 AM CET / 07:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_217">
+    <title>NHL : Los Angeles Kings vs Minnesota Wild</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_218">
+    <title>Leinster Rugby Senior Cup Final</title>
+    <desc>07:45 AM PT / 10:45 AM ET / 02:45 PM GMT
+03:45 PM CET / 10:45 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_219">
+    <title>PlusLiga : Trefl Gdansk vs. KS Norwid Czestochowa</title>
+    <desc>09:30 AM PT / 12:30 PM ET / 04:30 PM GMT
+05:30 PM CET / 12:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_220">
+    <title>Orlen Liga Women : LKS Lodz vs. Budowlani Lodz</title>
+    <desc>12:30 PM PT / 03:30 PM ET / 07:30 PM GMT
+08:30 PM CET / 03:30 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_221">
+    <title>Superliga Masculina De Vôlei : Blumenau vs São José</title>
+    <desc>02:00 PM PT / 05:00 PM ET / 09:00 PM GMT
+10:00 PM CET / 05:00 AM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_222">
+    <title>Superliga Feminina De Vôlei : Minas vs Osasco</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_223">
+    <title>2025 World Women's Curling Championship : Canada vs. Denmark</title>
+    <desc>10:00 PM PT / 01:00 AM ET / 05:00 AM GMT
+06:00 AM CET / 01:00 PM PHT
+Date: 03/16/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_224">
+    <title>Group stage | Women | World Championship : Denmark vs Norway</title>
+    <desc>03:00 AM PT / 06:00 AM ET / 10:00 AM GMT
+11:00 AM CET / 06:00 PM PHT
+Date: 03/17/2025</desc>
+  </programme>
+  <programme start="20250317192415 +0000" stop="20250319192415 +0000" channel="daddylive-events_225">
+    <title>2025 World Women's Curling Championship : United States vs Canada</title>
+    <desc>05:00 PM PT / 08:00 PM ET / 12:00 AM GMT
+01:00 AM CET / 08:00 AM PHT
+Date: 03/16/2025</desc>
+  </programme>
+</tv>
