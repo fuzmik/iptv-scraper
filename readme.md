@@ -3,6 +3,9 @@
 - ```https://iptv-scraper-re.vercel.app/ppvland```
 - ```https://iptv-scraper-re.vercel.app/streambtw```
 - ```https://iptv-scraper-re.vercel.app/nbawebcast```
+- ```https://iptv-scraper-re.vercel.app/mlbwebcast```
+- ```https://iptv-scraper-re.vercel.app/nflwebcast```
+- ```https://iptv-scraper-re.vercel.app/nhlwebcast```
 - ```https://iptv-scraper-re.vercel.app/pixelsport```
 - ```https://iptv-scraper-re.vercel.app/aesport```
 - ```https://iptv-scraper-re.vercel.app/nizarstream```
