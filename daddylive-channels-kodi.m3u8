@@ -267,6 +267,9 @@ https://dokko1new.koskoros.ru/dokko1/premium566/mono.m3u8|Referer=https%3A%2F%2F
 #EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-seriale.png" group-title="POLAND",Canal+ Seriale Poland
 https://windnew.koskoros.ru/wind/premium570/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="AFRICA",Canal+ Sport 1 Afrique
+https://ddy6new.koskoros.ru/ddy6/premium486/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png" group-title="AFRICA",Canal+ Sport 2 Afrique
 https://ddy6new.koskoros.ru/ddy6/premium487/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
@@ -405,6 +408,9 @@ https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8|Referer=https%3A%2F%2F
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga.png" group-title="SPAIN",DAZN LaLiga
 https://dokko1new.koskoros.ru/dokko1/premium538/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga-2.png" group-title="SPAIN",DAZN LaLiga 2
+https://windnew.koskoros.ru/wind/premium43/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
 #EXTINF:-1 tvg-id="DR1.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dr1.png" group-title="DENMARK",DR1 Denmark
 https://dokko1new.koskoros.ru/dokko1/premium801/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
@@ -473,6 +479,9 @@ https://nfsnew.koskoros.ru/nfs/premium652/mono.m3u8|Referer=https%3A%2F%2Ffunzon
 
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-xd.png" group-title="UNITED STATES",Disney XD
 https://zekonew.koskoros.ru/zeko/premium314/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-racing.png" group-title="UNITED ARAB EMIRATES",Dubai Racing 1 UAE
+https://dokko1new.koskoros.ru/dokko1/premium607/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="UNITED ARAB EMIRATES",Dubai Sports 1 UAE
 https://dokko1new.koskoros.ru/dokko1/premium604/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
@@ -731,6 +740,9 @@ https://zekonew.koskoros.ru/zeko/premium775/mono.m3u8|Referer=https%3A%2F%2Ffunz
 
 #EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/freeform.png" group-title="UNITED STATES",Freeform
 https://zekonew.koskoros.ru/zeko/premium301/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
+#EXTINF:-1 tvg-id="GOL.PLAY.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/gol-play-spain.png" group-title="SPAIN",GOL PLAY Spain
+https://dokko1new.koskoros.ru/dokko1/premium530/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png" group-title="UNITED STATES",GOLF Channel USA
 https://zekonew.koskoros.ru/zeko/premium318/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
@@ -1104,6 +1116,9 @@ https://wikinew.koskoros.ru/wiki/premium440/mono.m3u8|Referer=https%3A%2F%2Ffunz
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/oxygen-true-crime.png" group-title="UNITED STATES",Oxygen True Crime
 https://windnew.koskoros.ru/wind/premium332/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pdc-tv.png" group-title="UNITED STATES",PDC TV
+https://windnew.koskoros.ru/wind/premium43/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
 #EXTINF:-1 tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/pop-tv-usa.png" group-title="UNITED STATES",POP TV USA
 https://ddy6new.koskoros.ru/ddy6/premium653/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
@@ -1208,6 +1223,9 @@ https://windnew.koskoros.ru/wind/premium853/mono.m3u8|Referer=https%3A%2F%2Ffunz
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rai-sport-it.png" group-title="ITALY",Rai Sport Italy
 https://ddy6new.koskoros.ru/ddy6/premium882/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
+#EXTINF:-1 tvg-id="Rally.TV.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rally-tv.png" group-title="UNITED STATES",Rally Tv
+https://dokko1new.koskoros.ru/dokko1/premium607/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
 #EXTINF:-1 tvg-id="RealMadridTV(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/real-madrid-tv-spain.png" group-title="SPAIN",Real Madrid TV Spain
 https://dokko1new.koskoros.ru/dokko1/premium523/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
@@ -2027,6 +2045,9 @@ https://ddy6new.koskoros.ru/ddy6/premium493/mono.m3u8|Referer=https%3A%2F%2Ffunz
 
 #EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="OTHERS",beIN SPORTS XTRA 1
 https://ddy6new.koskoros.ru/ddy6/premium100/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-xtra.png" group-title="OTHERS",beIN SPORTS XTRA 2
+https://windnew.koskoros.ru/wind/premium43/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-en-espa.png" group-title="OTHERS",beIN SPORTS en Español
 https://zekonew.koskoros.ru/zeko/premium372/mono.m3u8|Referer=https%3A%2F%2Ffunzoneplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Ffunzoneplay.cfd
